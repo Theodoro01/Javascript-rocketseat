@@ -16,7 +16,7 @@ console.log(`O number1 e ${number1}`);
 console.log(`O number2 e ${number2}`);
 console.log(`A soma e ${sum(number1, number2)}`);
 
-console.log(total)
+console.log(total);
 
 
 sum(2,3)//arguments
